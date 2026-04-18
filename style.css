@@ -1,0 +1,23 @@
+.container{
+    max-width: 900px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+    background-color: #1F363D;
+    padding: 30px;
+    color: #70A9A1;
+}
+img{
+  width: 40%;
+  
+ 
+}
+.centre{
+  display: block;
+  margin: 0 auto;
+}
+.title{
+  text-align: center;
+}
